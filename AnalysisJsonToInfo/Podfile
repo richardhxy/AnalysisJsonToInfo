@@ -1,0 +1,7 @@
+platform:ios,                   '7.0'
+pod 'Mantle',                   '1.5.4'
+pod 'DTCoreText',               '1.6.16'
+pod 'DTFoundation',             '1.7.6'
+pod 'JTSImageViewController', 	'1.4'
+pod 'WCAlertView', 				'1.0.1'
+pod 'SVProgressHUD',            '1.1.3'

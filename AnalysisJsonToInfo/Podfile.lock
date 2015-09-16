@@ -1,0 +1,79 @@
+PODS:
+  - DTCoreText (1.6.16):
+    - DTFoundation/Core (~> 1.7.5)
+    - DTFoundation/DTAnimatedGIF (~> 1.7.5)
+    - DTFoundation/DTHTMLParser (~> 1.7.5)
+    - DTFoundation/UIKit (~> 1.7.5)
+  - DTFoundation (1.7.6):
+    - DTFoundation/AppKit (= 1.7.6)
+    - DTFoundation/Core (= 1.7.6)
+    - DTFoundation/Debug (= 1.7.6)
+    - DTFoundation/DTAnimatedGIF (= 1.7.6)
+    - DTFoundation/DTASN1 (= 1.7.6)
+    - DTFoundation/DTAWS (= 1.7.6)
+    - DTFoundation/DTHTMLParser (= 1.7.6)
+    - DTFoundation/DTProgressHUD (= 1.7.6)
+    - DTFoundation/DTReachability (= 1.7.6)
+    - DTFoundation/DTScripting (= 1.7.6)
+    - DTFoundation/DTSidePanel (= 1.7.6)
+    - DTFoundation/DTSQLite (= 1.7.6)
+    - DTFoundation/DTUTI (= 1.7.6)
+    - DTFoundation/DTZipArchive (= 1.7.6)
+    - DTFoundation/Runtime (= 1.7.6)
+    - DTFoundation/UIKit (= 1.7.6)
+    - DTFoundation/UIKit_BlocksAdditions (= 1.7.6)
+  - DTFoundation/Core (1.7.6)
+  - DTFoundation/Debug (1.7.6):
+    - DTFoundation/Core
+    - DTFoundation/Runtime
+  - DTFoundation/DTAnimatedGIF (1.7.6)
+  - DTFoundation/DTASN1 (1.7.6):
+    - DTFoundation/Core
+  - DTFoundation/DTAWS (1.7.6):
+    - DTFoundation/Core
+  - DTFoundation/DTHTMLParser (1.7.6):
+    - DTFoundation/Core
+  - DTFoundation/DTProgressHUD (1.7.6):
+    - DTFoundation/Core
+    - DTFoundation/UIKit
+  - DTFoundation/DTReachability (1.7.6):
+    - DTFoundation/Core
+  - DTFoundation/DTScripting (1.7.6):
+    - DTFoundation/Core
+  - DTFoundation/DTSidePanel (1.7.6):
+    - DTFoundation/UIKit
+  - DTFoundation/DTSQLite (1.7.6):
+    - DTFoundation/Core
+  - DTFoundation/DTUTI (1.7.6)
+  - DTFoundation/DTZipArchive (1.7.6):
+    - DTFoundation/DTZipArchive/Minizip (= 1.7.6)
+  - DTFoundation/DTZipArchive/Minizip (1.7.6)
+  - DTFoundation/Runtime (1.7.6)
+  - DTFoundation/UIKit (1.7.6):
+    - DTFoundation/Core
+  - DTFoundation/UIKit_BlocksAdditions (1.7.6):
+    - DTFoundation/Core
+  - JTSImageViewController (1.4)
+  - Mantle (1.5.4):
+    - Mantle/extobjc (= 1.5.4)
+  - Mantle/extobjc (1.5.4)
+  - SVProgressHUD (1.1.3)
+  - WCAlertView (1.0.1)
+
+DEPENDENCIES:
+  - DTCoreText (= 1.6.16)
+  - DTFoundation (= 1.7.6)
+  - JTSImageViewController (= 1.4)
+  - Mantle (= 1.5.4)
+  - SVProgressHUD (= 1.1.3)
+  - WCAlertView (= 1.0.1)
+
+SPEC CHECKSUMS:
+  DTCoreText: 934a16fe9ffdd169c96261721b39dc312b75713d
+  DTFoundation: bf431de2292484461ff7d92295fdae7dc15a3820
+  JTSImageViewController: 6a367b144e257db02cdfacdba78d684377d3777b
+  Mantle: 60acd0cd363e27d945bda0a6b8e90577112d28f3
+  SVProgressHUD: 748080e4f36e603f6c02aec292664239df5279c1
+  WCAlertView: 36a1d087d0b3eb7f6ce3dae623fbb474f26f2beb
+
+COCOAPODS: 0.38.2
